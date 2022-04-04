@@ -1,0 +1,32 @@
+[
+	{
+		"Name": "Muriel",
+		"Age": 25,
+		"Phone": "(875) 573-2795",
+		"Address": "Muir"
+	},
+	{
+		"Name": "Ilene",
+		"Age": 25,
+		"Phone": "(871) 591-3988",
+		"Address": "Alden"
+	},
+	{
+		"Name": "Sybil",
+		"Age": 25,
+		"Phone": "(853) 459-2192",
+		"Address": "Eggertsville"
+	},
+	{
+		"Name": "Belinda",
+		"Age": 25,
+		"Phone": "(997) 551-2114",
+		"Address": "Caberfae"
+	},
+	{
+		"Name": "Deena",
+		"Age": 25,
+		"Phone": "(915) 559-2874",
+		"Address": "Bowie"
+	}
+]
